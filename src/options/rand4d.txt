@@ -1,0 +1,15 @@
+--run_id rand4d
+--description "Trials on random 4D functions."
+--trials 10
+--max_capital 1000
+--init_capital 5
+--tune_every 1
+--tuning_methods ml-post_sampling
+--hp_samples 5
+--methods agn-thomp,agn-ei,mts,mei,random
+--easy_masses 15
+--med_masses 10
+--hard_masses 5
+--massf_dim 4
+--write_fig 1
+--write_dir data

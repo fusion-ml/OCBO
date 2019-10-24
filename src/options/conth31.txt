@@ -1,0 +1,9 @@
+--run_id conth31
+--description "Find continuous policy on Hartmann 3-1"
+--trials 10
+--max_capital 300
+--methods cmts,cmts-pm,pei,revi,rand
+--judge_ctx_size 100
+--function hartmann4
+--write_dir data
+--write_fig 1

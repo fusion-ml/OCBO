@@ -1,0 +1,8 @@
+--run_id contbran
+--description "Find continuous policy on Branin 1-1"
+--trials 10
+--max_capital 100
+--methods cmts,cmts-pm,pei,revi,rand
+--function branin
+--write_dir data
+--write_fig 1

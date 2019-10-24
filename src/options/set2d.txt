@@ -1,0 +1,10 @@
+--run_id set2d
+--description "Set number of unrelated, 2D functions"
+--trials 10
+--max_capital 100
+--tune_every 1
+--tuning_methods ml
+--methods agn-thomp,agn-ei,mts,mei,random
+--functions branin,parabaloid,parabaloid,parabaloid,parabaloid
+--write_fig 1
+--write_dir data

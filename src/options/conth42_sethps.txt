@@ -1,0 +1,12 @@
+--run_id conth42_sethps
+--description "Find continuous policy on Hartmann 4-2"
+--trials 10
+--max_capital 750
+--methods cmts,cmts-pm,pei,revi,rand
+--judge_act_size 100
+--judge_ctx_size 100
+--function hartmann6
+--act_dim 2
+--hp_tune_samps 750
+--write_dir data
+--write_fig 1

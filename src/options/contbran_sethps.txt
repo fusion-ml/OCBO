@@ -1,0 +1,9 @@
+--run_id contbran_sethps
+--description "Find continuous policy on Branin 1-1"
+--trials 10
+--max_capital 100
+--methods cmts,cmts-pm,pei,revi,rand
+--function branin
+--hp_tune_samps 100
+--write_dir data
+--write_fig 1

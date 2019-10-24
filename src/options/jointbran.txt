@@ -1,0 +1,14 @@
+--run_id jointbran
+--description "Jointly model Branin chopped up into several contexts."
+--trials 10
+--max_capital 110
+--run_ei_after 100
+--init_capital 5
+--tune_every 1
+--tuning_methods ml
+--methods joint-mts,joint-mei,ja-thomp,ja-ei,joint-rand,revi
+--cts_f branin
+--risk_neutral 1
+--num_chops 10
+--write_fig 1
+--write_dir data

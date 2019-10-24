@@ -1,0 +1,14 @@
+--run_id jointh31
+--description "Jointly model Hartmann 2 contexts 2 actions."
+--trials 10
+--max_capital 108
+--run_ei_after 100
+--init_capital 5
+--tune_every 1
+--tuning_methods ml
+--methods joint-mts,joint-mei,ja-thomp,ja-ei,joint-rand,revi
+--num_eval_pts 250
+--risk_neutral 1
+--chop_h3_1 1
+--write_fig 1
+--write_dir data
