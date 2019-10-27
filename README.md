@@ -46,6 +46,7 @@ proportion of resources given to different tasks.
 
 With the exception of the experiment in Section 4, the table below shows the
 option file the corresponds to a given experiment.
+
 | Experiment         | Option File                                           | 
 | -------------      |:-------------:                                        |
 | Figure 1(a,b)      | [set2d.txt](src/options/set2d.txt)                    |
