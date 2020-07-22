@@ -66,3 +66,13 @@ option file the corresponds to a given experiment.
 | Figure 5(h)        | [conth42_sethps.txt](src/options/conth42_sethps.txt)  |
 
 ## Citing Work
+If you use any code please cite the following:
+```
+@inproceedings{char2019offline,
+  title={Offline contextual bayesian optimization},
+  author={Char, Ian and Chung, Youngseog and Neiswanger, Willie and Kandasamy, Kirthevasan and Nelson, Andrew Oakleigh and Boyer, Mark and Kolemen, Egemen and Schneider, Jeff},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={4627--4638},
+  year={2019}
+}
+```
