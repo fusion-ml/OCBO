@@ -4,7 +4,7 @@ dragonfly-opt==0.1.4
 future==0.18.1
 kiwisolver==1.1.0
 matplotlib==2.2.4
-numpy==1.16.5
+numpy==1.22.0
 pkg-resources==0.0.0
 pudb==2019.1
 Pygments==2.7.4
